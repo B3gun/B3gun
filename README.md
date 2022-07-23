@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B3gun
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... getting an internship
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... Building any websites
 - 📫 How to reach me ... harshit.k1956@gmail.com
